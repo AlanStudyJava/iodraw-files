@@ -19,6 +19,9 @@
         <mxCell id="Mt2_nf01mlsLKxxaruX7-3" value="诊断" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="557" y="265" width="57" height="28" as="geometry" />
         </mxCell>
+        <mxCell id="Mt2_nf01mlsLKxxaruX7-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Mt2_nf01mlsLKxxaruX7-4" target="Mt2_nf01mlsLKxxaruX7-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Mt2_nf01mlsLKxxaruX7-4" value="引导" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="678" y="265" width="57" height="28" as="geometry" />
         </mxCell>
@@ -61,9 +64,6 @@
         </mxCell>
         <mxCell id="Mt2_nf01mlsLKxxaruX7-20" value="达成单元学习目标" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="661" y="400" width="106" height="28" as="geometry" />
-        </mxCell>
-        <mxCell id="Mt2_nf01mlsLKxxaruX7-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.129;entryY=0.519;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Mt2_nf01mlsLKxxaruX7-4" target="Mt2_nf01mlsLKxxaruX7-5">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
