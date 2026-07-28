@@ -13,7 +13,7 @@
         <mxCell id="Mt2_nf01mlsLKxxaruX7-2" value="批改" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="435" y="265" width="57" height="28" as="geometry" />
         </mxCell>
-        <mxCell id="Mt2_nf01mlsLKxxaruX7-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Mt2_nf01mlsLKxxaruX7-3" target="Mt2_nf01mlsLKxxaruX7-4">
+        <mxCell id="Mt2_nf01mlsLKxxaruX7-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Mt2_nf01mlsLKxxaruX7-16" target="Mt2_nf01mlsLKxxaruX7-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Mt2_nf01mlsLKxxaruX7-3" value="诊断" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -50,14 +50,6 @@
         <mxCell id="Mt2_nf01mlsLKxxaruX7-15" value="基于Coze开发的“智小科同学”智能体" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="226" y="675" width="231" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="Mt2_nf01mlsLKxxaruX7-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="Mt2_nf01mlsLKxxaruX7-16">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="623.8695652173915" y="230.82608695652175" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Mt2_nf01mlsLKxxaruX7-16" value="以评促教" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="777" y="523" width="60" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="Mt2_nf01mlsLKxxaruX7-18" value="同步" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="492" y="255" width="60" height="30" as="geometry" />
         </mxCell>
@@ -74,7 +66,16 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Mt2_nf01mlsLKxxaruX7-17" value="以评促学" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="735" y="255" width="60" height="30" as="geometry" />
+          <mxGeometry x="735" y="242" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Mt2_nf01mlsLKxxaruX7-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Mt2_nf01mlsLKxxaruX7-3" target="Mt2_nf01mlsLKxxaruX7-16">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="614" y="279" as="sourcePoint" />
+            <mxPoint x="678" y="279" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Mt2_nf01mlsLKxxaruX7-16" value="以评促教" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="611" y="252" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
