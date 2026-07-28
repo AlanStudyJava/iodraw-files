@@ -62,8 +62,8 @@
         <mxCell id="Mt2_nf01mlsLKxxaruX7-19" value="建构新知" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="562" y="387" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Mt2_nf01mlsLKxxaruX7-20" value="单元学习目标" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="55" y="410" width="106" height="28" as="geometry" />
+        <mxCell id="Mt2_nf01mlsLKxxaruX7-20" value="达成单元学习目标" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="661" y="400" width="106" height="28" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
