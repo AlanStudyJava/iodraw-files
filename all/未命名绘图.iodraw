@@ -8,10 +8,10 @@
           <mxGeometry x="42" y="400" width="106" height="28" as="geometry" />
         </mxCell>
         <mxCell id="Mt2_nf01mlsLKxxaruX7-2" value="批改" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="392" y="295" width="57" height="28" as="geometry" />
+          <mxGeometry x="415" y="258" width="57" height="28" as="geometry" />
         </mxCell>
         <mxCell id="Mt2_nf01mlsLKxxaruX7-3" value="诊断" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="390" y="367" width="57" height="28" as="geometry" />
+          <mxGeometry x="424" y="367" width="57" height="28" as="geometry" />
         </mxCell>
         <mxCell id="Mt2_nf01mlsLKxxaruX7-4" value="引导" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="390" y="436" width="57" height="28" as="geometry" />
