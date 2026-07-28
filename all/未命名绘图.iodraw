@@ -8,13 +8,13 @@
           <mxGeometry x="45" y="400" width="106" height="28" as="geometry" />
         </mxCell>
         <mxCell id="Mt2_nf01mlsLKxxaruX7-2" value="批改" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="425" y="266" width="57" height="28" as="geometry" />
+          <mxGeometry x="415" y="266" width="57" height="28" as="geometry" />
         </mxCell>
         <mxCell id="Mt2_nf01mlsLKxxaruX7-3" value="诊断" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="418" y="364" width="57" height="28" as="geometry" />
+          <mxGeometry x="415" y="359" width="57" height="28" as="geometry" />
         </mxCell>
         <mxCell id="Mt2_nf01mlsLKxxaruX7-4" value="引导" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="418" y="456" width="57" height="28" as="geometry" />
+          <mxGeometry x="415" y="452" width="57" height="28" as="geometry" />
         </mxCell>
         <mxCell id="Mt2_nf01mlsLKxxaruX7-5" value="再生" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="415" y="545" width="57" height="28" as="geometry" />
