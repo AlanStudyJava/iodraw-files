@@ -7,8 +7,8 @@
         <mxCell id="Mt2_nf01mlsLKxxaruX7-17" value="以评促学" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="735" y="255" width="60" height="18" as="geometry" />
         </mxCell>
-        <mxCell id="Mt2_nf01mlsLKxxaruX7-1" value="批改与分析工作流：" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="451" y="183" width="168" height="28" as="geometry" />
+        <mxCell id="Mt2_nf01mlsLKxxaruX7-1" value="批改与分析报告生成工作流：&lt;div&gt;IT_correct_V1&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="451" y="183" width="168" height="37" as="geometry" />
         </mxCell>
         <mxCell id="Mt2_nf01mlsLKxxaruX7-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Mt2_nf01mlsLKxxaruX7-2" target="Mt2_nf01mlsLKxxaruX7-3">
           <mxGeometry relative="1" as="geometry" />
