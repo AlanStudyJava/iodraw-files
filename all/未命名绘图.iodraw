@@ -32,8 +32,8 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="877" y="279" />
-              <mxPoint x="877" y="313" />
-              <mxPoint x="415" y="313" />
+              <mxPoint x="877" y="326" />
+              <mxPoint x="415" y="326" />
               <mxPoint x="415" y="279" />
             </Array>
           </mxGeometry>
@@ -54,10 +54,10 @@
           <mxGeometry x="226" y="675" width="231" height="45" as="geometry" />
         </mxCell>
         <mxCell id="Mt2_nf01mlsLKxxaruX7-16" value="以评促教" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="614" y="255" width="60" height="21" as="geometry" />
+          <mxGeometry x="614" y="253" width="60" height="21" as="geometry" />
         </mxCell>
         <mxCell id="Mt2_nf01mlsLKxxaruX7-18" value="同步" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="492" y="255" width="60" height="30" as="geometry" />
+          <mxGeometry x="492" y="253" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Mt2_nf01mlsLKxxaruX7-19" value="建构新知" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="932" y="370" width="60" height="30" as="geometry" />
