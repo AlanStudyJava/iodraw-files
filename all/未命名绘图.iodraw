@@ -22,6 +22,16 @@
         <mxCell id="Mt2_nf01mlsLKxxaruX7-4" value="引导" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="678" y="265" width="57" height="28" as="geometry" />
         </mxCell>
+        <mxCell id="Mt2_nf01mlsLKxxaruX7-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Mt2_nf01mlsLKxxaruX7-5" target="Mt2_nf01mlsLKxxaruX7-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="877" y="279" />
+              <mxPoint x="877" y="313" />
+              <mxPoint x="415" y="313" />
+              <mxPoint x="415" y="279" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="Mt2_nf01mlsLKxxaruX7-5" value="再生" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="800" y="265" width="57" height="28" as="geometry" />
         </mxCell>
