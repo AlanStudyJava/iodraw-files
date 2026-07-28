@@ -7,6 +7,9 @@
         <mxCell id="Mt2_nf01mlsLKxxaruX7-1" value="单元学习目标" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="47" y="405" width="106" height="28" as="geometry" />
         </mxCell>
+        <mxCell id="Mt2_nf01mlsLKxxaruX7-2" value="单元学习目标" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="202" y="402" width="106" height="28" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
