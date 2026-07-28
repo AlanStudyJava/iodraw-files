@@ -62,6 +62,9 @@
         <mxCell id="Mt2_nf01mlsLKxxaruX7-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="Mt2_nf01mlsLKxxaruX7-15" target="Mt2_nf01mlsLKxxaruX7-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="Mt2_nf01mlsLKxxaruX7-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="Mt2_nf01mlsLKxxaruX7-15" target="Mt2_nf01mlsLKxxaruX7-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Mt2_nf01mlsLKxxaruX7-15" value="基于Coze开发的“智小科同学”智能体" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="525.5" y="77" width="231" height="45" as="geometry" />
         </mxCell>
