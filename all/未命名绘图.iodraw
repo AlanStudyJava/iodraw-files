@@ -74,8 +74,8 @@
         <mxCell id="Mt2_nf01mlsLKxxaruX7-38" value="定制知识点生成作业工作流：&lt;div&gt;IT_exam_create&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="818" y="183" width="168" height="37" as="geometry" />
         </mxCell>
-        <mxCell id="Mt2_nf01mlsLKxxaruX7-39" value="批改与分析报告生成工作流：&lt;div&gt;IT_correct_V1&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="461" y="193" width="168" height="37" as="geometry" />
+        <mxCell id="Mt2_nf01mlsLKxxaruX7-39" value="系统人设提示词：苏格拉底式引导回复" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="998" y="183" width="168" height="37" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
