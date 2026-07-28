@@ -50,6 +50,9 @@
         <mxCell id="Mt2_nf01mlsLKxxaruX7-10" value="评：反馈开课堂实施测评" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="775" y="378" width="140" height="45" as="geometry" />
         </mxCell>
+        <mxCell id="Mt2_nf01mlsLKxxaruX7-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="Mt2_nf01mlsLKxxaruX7-15" target="Mt2_nf01mlsLKxxaruX7-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Mt2_nf01mlsLKxxaruX7-15" value="基于Coze开发的“智小科同学”智能体" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="528.5" y="81" width="231" height="45" as="geometry" />
         </mxCell>
@@ -66,7 +69,7 @@
           <mxGeometry x="923" y="602" width="106" height="28" as="geometry" />
         </mxCell>
         <mxCell id="Mt2_nf01mlsLKxxaruX7-36" value="单元学习目标" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="579" y="479" width="106" height="28" as="geometry" />
+          <mxGeometry x="399" y="569" width="106" height="28" as="geometry" />
         </mxCell>
         <mxCell id="Mt2_nf01mlsLKxxaruX7-37" value="个性化易错题生成工作流：&lt;div&gt;IT_error&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="377" y="180" width="168" height="37" as="geometry" />
