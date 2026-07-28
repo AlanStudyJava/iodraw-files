@@ -54,7 +54,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Mt2_nf01mlsLKxxaruX7-15" value="基于Coze开发的“智小科同学”智能体" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="528.5" y="81" width="231" height="45" as="geometry" />
+          <mxGeometry x="525.5" y="77" width="231" height="45" as="geometry" />
         </mxCell>
         <mxCell id="Mt2_nf01mlsLKxxaruX7-16" value="以评促教" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="614" y="253" width="60" height="21" as="geometry" />
@@ -82,6 +82,9 @@
         </mxCell>
         <mxCell id="Mt2_nf01mlsLKxxaruX7-40" value="AI课堂" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="923" y="180" width="168" height="37" as="geometry" />
+        </mxCell>
+        <mxCell id="Mt2_nf01mlsLKxxaruX7-42" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1041" y="357" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
