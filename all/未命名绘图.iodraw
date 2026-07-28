@@ -77,8 +77,8 @@
         <mxCell id="Mt2_nf01mlsLKxxaruX7-39" value="人设与回复提示词：苏格拉底式引导回复" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="737" y="180" width="168" height="37" as="geometry" />
         </mxCell>
-        <mxCell id="Mt2_nf01mlsLKxxaruX7-40" value="人设与回复提示词：苏格拉底式引导回复" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="747" y="190" width="168" height="37" as="geometry" />
+        <mxCell id="Mt2_nf01mlsLKxxaruX7-40" value="AI课堂" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="923" y="180" width="168" height="37" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
