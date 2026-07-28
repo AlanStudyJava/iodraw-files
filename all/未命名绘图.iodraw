@@ -8,7 +8,7 @@
           <mxGeometry x="735" y="255" width="60" height="18" as="geometry" />
         </mxCell>
         <mxCell id="Mt2_nf01mlsLKxxaruX7-1" value="批改与分析报告生成工作流：&lt;div&gt;IT_correct_V1&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="451" y="183" width="168" height="37" as="geometry" />
+          <mxGeometry x="190" y="180" width="168" height="37" as="geometry" />
         </mxCell>
         <mxCell id="Mt2_nf01mlsLKxxaruX7-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Mt2_nf01mlsLKxxaruX7-2" target="Mt2_nf01mlsLKxxaruX7-3">
           <mxGeometry relative="1" as="geometry" />
@@ -69,13 +69,16 @@
           <mxGeometry x="55" y="410" width="106" height="28" as="geometry" />
         </mxCell>
         <mxCell id="Mt2_nf01mlsLKxxaruX7-37" value="个性化易错题生成工作流：&lt;div&gt;IT_error&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="638" y="183" width="168" height="37" as="geometry" />
+          <mxGeometry x="377" y="180" width="168" height="37" as="geometry" />
         </mxCell>
         <mxCell id="Mt2_nf01mlsLKxxaruX7-38" value="定制知识点生成作业工作流：&lt;div&gt;IT_exam_create&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="818" y="183" width="168" height="37" as="geometry" />
+          <mxGeometry x="557" y="180" width="168" height="37" as="geometry" />
         </mxCell>
         <mxCell id="Mt2_nf01mlsLKxxaruX7-39" value="人设与回复提示词：苏格拉底式引导回复" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="998" y="183" width="168" height="37" as="geometry" />
+          <mxGeometry x="737" y="180" width="168" height="37" as="geometry" />
+        </mxCell>
+        <mxCell id="Mt2_nf01mlsLKxxaruX7-40" value="人设与回复提示词：苏格拉底式引导回复" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="747" y="190" width="168" height="37" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
