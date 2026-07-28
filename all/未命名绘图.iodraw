@@ -17,16 +17,16 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Mt2_nf01mlsLKxxaruX7-3" value="诊断" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="415" y="359" width="57" height="28" as="geometry" />
+          <mxGeometry x="519" y="269" width="57" height="28" as="geometry" />
         </mxCell>
         <mxCell id="Mt2_nf01mlsLKxxaruX7-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Mt2_nf01mlsLKxxaruX7-4" target="Mt2_nf01mlsLKxxaruX7-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Mt2_nf01mlsLKxxaruX7-4" value="引导" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="415" y="452" width="57" height="28" as="geometry" />
+          <mxGeometry x="614" y="269" width="57" height="28" as="geometry" />
         </mxCell>
         <mxCell id="Mt2_nf01mlsLKxxaruX7-5" value="再生" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="415" y="545" width="57" height="28" as="geometry" />
+          <mxGeometry x="717" y="269" width="57" height="28" as="geometry" />
         </mxCell>
         <mxCell id="Mt2_nf01mlsLKxxaruX7-7" value="教：双师协同课堂教学" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="222" y="297" width="140" height="45" as="geometry" />
