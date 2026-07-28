@@ -51,7 +51,7 @@
           <mxGeometry x="775" y="378" width="140" height="45" as="geometry" />
         </mxCell>
         <mxCell id="Mt2_nf01mlsLKxxaruX7-15" value="基于Coze开发的“智小科同学”智能体" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="528.5" y="118" width="231" height="45" as="geometry" />
+          <mxGeometry x="528.5" y="81" width="231" height="45" as="geometry" />
         </mxCell>
         <mxCell id="Mt2_nf01mlsLKxxaruX7-16" value="以评促教" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="614" y="253" width="60" height="21" as="geometry" />
@@ -67,6 +67,9 @@
         </mxCell>
         <mxCell id="Mt2_nf01mlsLKxxaruX7-36" value="单元学习目标" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="55" y="410" width="106" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="Mt2_nf01mlsLKxxaruX7-37" value="批改与分析报告生成工作流：&lt;div&gt;IT_correct_V1&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="638" y="183" width="168" height="37" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
