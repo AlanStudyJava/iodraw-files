@@ -56,8 +56,8 @@
         <mxCell id="Mt2_nf01mlsLKxxaruX7-17" value="以评促教" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="457" y="404" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Mt2_nf01mlsLKxxaruX7-18" value="以评促教" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="467" y="414" width="60" height="30" as="geometry" />
+        <mxCell id="Mt2_nf01mlsLKxxaruX7-18" value="同步" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="464" y="312" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
